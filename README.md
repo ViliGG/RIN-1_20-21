@@ -11,8 +11,8 @@ Dobrodosli v UP Famnit RIN-1 2020/21!
 Tukaj lahko najdete in objavite predavanja, zapiske, izpite, domace naloge
 in vse podobno v zvezi z solskim programom.
 
-Vsakemu studentu je dovoljeno "branchati",
-vendar moram js pull requeste potrditi.
+Ce zelite dodati stvari na repository mi pisite,
+da vas dodam kot collaboratorje.
 
 Zazeljeno je tudi, da ta projekt delite z drugimi studenti,
 vendar ne s publiko zaradi legalnih razlogov.
@@ -31,7 +31,7 @@ Welcome to UP Famnit RIN-1 2020/21!
 Here you can find or post lectures, notes, exams, homework and anything else
 related to the school program.
 
-Every student is allowed to branch but only I can accept pull requests.
+If you wish to collaborate on this project please dm me.
 
 Sharing with other students is mostly desirable, but do not share it with
 the public due to legal issues.
