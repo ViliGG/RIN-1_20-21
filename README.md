@@ -2,6 +2,7 @@ INFO
 @author Vili Perse
 @date 4.1.2021
 @version 1.0
+
 -------------------------------------------------------------------------------
 SLO
 
@@ -21,6 +22,7 @@ gmail: vili.perse.1@gmail.com ali
 discord: ViliGG#6118.
 
 Srecno in zdravo v novem solskem letu!
+
 -------------------------------------------------------------------------------
 ENG
 
